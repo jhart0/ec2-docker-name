@@ -5,8 +5,3 @@ Names list taken from here: https://github.com/moby/moby/blob/master/pkg/namesge
 Usage:
 
 `python main.py`
-
-Todo:
-
-Add AWS Lambda Event Handler
-Set EC2 Tag to generated name
